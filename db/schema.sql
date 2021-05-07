@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS pokefyte_db;
-CREATE DATABASE pokefyte_db;
+DROP DATABASE IF EXISTS mouycn3ret7mlis7;
+CREATE DATABASE mouycn3ret7mlis7;
